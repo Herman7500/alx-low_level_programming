@@ -2,14 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main Entry point
+ * main - Entry point 
+ * Description: print if a number is negative or positive
  * Return: always 0 success
  */
 int main(void)
 {
 	int n; 
-	/** it helps
-	 */
 
 	srand(time(0));
 	n  = rand() - RAND_MAX / 2;
