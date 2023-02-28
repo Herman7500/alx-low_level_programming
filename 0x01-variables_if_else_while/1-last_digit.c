@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *Main: entry point
- *Description: describes the main function, checks on the last digit of the assigned varible.
+ * main - Entry point
+ * Description - checks the last value of the assigned varriable
  * Return: Always 0 (success)
  */
 int main(void)
