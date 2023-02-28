@@ -4,6 +4,7 @@
 /**
  * Main-Entry point
  * description: checks on the last digit of the assigned Var
+ * @parameter: describe the parameter
  * Return: Always 0 (success)
  */
 int main(void)
